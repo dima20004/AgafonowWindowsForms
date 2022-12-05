@@ -1,0 +1,11 @@
+D:\C#\Agafonow_nedely 2_zadanie 5_forms\Agafonow_nedely 2_zadanie 5_forms\bin\Debug\Agafonow_nedely 2_zadanie 5_forms.exe.config
+D:\C#\Agafonow_nedely 2_zadanie 5_forms\Agafonow_nedely 2_zadanie 5_forms\bin\Debug\Agafonow_nedely 2_zadanie 5_forms.exe
+D:\C#\Agafonow_nedely 2_zadanie 5_forms\Agafonow_nedely 2_zadanie 5_forms\bin\Debug\Agafonow_nedely 2_zadanie 5_forms.pdb
+D:\C#\Agafonow_nedely 2_zadanie 5_forms\Agafonow_nedely 2_zadanie 5_forms\obj\Debug\Agafonow_nedely 2_zadanie 5_forms.csproj.AssemblyReference.cache
+D:\C#\Agafonow_nedely 2_zadanie 5_forms\Agafonow_nedely 2_zadanie 5_forms\obj\Debug\Agafonow_nedely 2_zadanie 5_forms.csproj.SuggestedBindingRedirects.cache
+D:\C#\Agafonow_nedely 2_zadanie 5_forms\Agafonow_nedely 2_zadanie 5_forms\obj\Debug\Agafonow_nedely_2_zadanie_5_forms.Form1.resources
+D:\C#\Agafonow_nedely 2_zadanie 5_forms\Agafonow_nedely 2_zadanie 5_forms\obj\Debug\Agafonow_nedely_2_zadanie_5_forms.Properties.Resources.resources
+D:\C#\Agafonow_nedely 2_zadanie 5_forms\Agafonow_nedely 2_zadanie 5_forms\obj\Debug\Agafonow_nedely 2_zadanie 5_forms.csproj.GenerateResource.cache
+D:\C#\Agafonow_nedely 2_zadanie 5_forms\Agafonow_nedely 2_zadanie 5_forms\obj\Debug\Agafonow_nedely 2_zadanie 5_forms.csproj.CoreCompileInputs.cache
+D:\C#\Agafonow_nedely 2_zadanie 5_forms\Agafonow_nedely 2_zadanie 5_forms\obj\Debug\Agafonow_nedely 2_zadanie 5_forms.exe
+D:\C#\Agafonow_nedely 2_zadanie 5_forms\Agafonow_nedely 2_zadanie 5_forms\obj\Debug\Agafonow_nedely 2_zadanie 5_forms.pdb
