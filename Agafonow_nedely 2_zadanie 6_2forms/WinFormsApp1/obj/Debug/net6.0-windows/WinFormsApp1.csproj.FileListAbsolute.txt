@@ -1,0 +1,51 @@
+C:\Users\susal\Desktop\Учеба\7 семестр\Лоханов\ЛБ9\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\susal\Desktop\Учеба\7 семестр\Лоханов\ЛБ9\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\susal\Desktop\Учеба\7 семестр\Лоханов\ЛБ9\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\susal\Desktop\Учеба\7 семестр\Лоханов\ЛБ9\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\susal\Desktop\Учеба\7 семестр\Лоханов\ЛБ9\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\susal\Desktop\Учеба\7 семестр\Лоханов\ЛБ9\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\susal\Desktop\Учеба\7 семестр\Лоханов\ЛБ9\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\susal\Desktop\Учеба\7 семестр\Лоханов\ЛБ9\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\susal\Desktop\Учеба\7 семестр\Лоханов\ЛБ9\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\susal\Desktop\Учеба\7 семестр\Лоханов\ЛБ9\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\susal\Desktop\Учеба\7 семестр\Лоханов\ЛБ9\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\susal\Desktop\Учеба\7 семестр\Лоханов\ЛБ9\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\susal\Desktop\Учеба\7 семестр\Лоханов\ЛБ9\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\susal\Desktop\Учеба\7 семестр\Лоханов\ЛБ9\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\susal\Desktop\Учеба\7 семестр\Лоханов\ЛБ9\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\susal\Desktop\Учеба\7 семестр\Лоханов\ЛБ9\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\susal\Desktop\Учеба\7 семестр\Лоханов\ЛБ9\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+G:\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+G:\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+G:\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+G:\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+G:\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+G:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+G:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+G:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+G:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+G:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+G:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+G:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+G:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+G:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+G:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+G:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+G:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+D:\C#\Учебная практика_5_семестр\Agafonow_nedely 2_zadanie 6_2forms\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\C#\Учебная практика_5_семестр\Agafonow_nedely 2_zadanie 6_2forms\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\C#\Учебная практика_5_семестр\Agafonow_nedely 2_zadanie 6_2forms\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\C#\Учебная практика_5_семестр\Agafonow_nedely 2_zadanie 6_2forms\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\C#\Учебная практика_5_семестр\Agafonow_nedely 2_zadanie 6_2forms\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\C#\Учебная практика_5_семестр\Agafonow_nedely 2_zadanie 6_2forms\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\C#\Учебная практика_5_семестр\Agafonow_nedely 2_zadanie 6_2forms\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\C#\Учебная практика_5_семестр\Agafonow_nedely 2_zadanie 6_2forms\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\C#\Учебная практика_5_семестр\Agafonow_nedely 2_zadanie 6_2forms\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Учебная практика_5_семестр\Agafonow_nedely 2_zadanie 6_2forms\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\C#\Учебная практика_5_семестр\Agafonow_nedely 2_zadanie 6_2forms\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\C#\Учебная практика_5_семестр\Agafonow_nedely 2_zadanie 6_2forms\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\C#\Учебная практика_5_семестр\Agafonow_nedely 2_zadanie 6_2forms\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\C#\Учебная практика_5_семестр\Agafonow_nedely 2_zadanie 6_2forms\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\C#\Учебная практика_5_семестр\Agafonow_nedely 2_zadanie 6_2forms\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\C#\Учебная практика_5_семестр\Agafonow_nedely 2_zadanie 6_2forms\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\C#\Учебная практика_5_семестр\Agafonow_nedely 2_zadanie 6_2forms\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
